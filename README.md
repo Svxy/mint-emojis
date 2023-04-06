@@ -1,5 +1,5 @@
 <h2 align=center>Mint Emojis</h2>
-<p align=center>A simple emoji picker for Linux Mint 21.1 "Vera" (or other versions) using Python with a PyQt5 GUI.</p>
+<p align=center>A simple emoji picker for Linux Mint 21.1 "Vera" (or other versions) using Python with a PyQt5 GUI.<br><sup>Emoji menu opens with <kbd>CTRL</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>.</sup></p>
 
 <br>
 
