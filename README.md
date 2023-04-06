@@ -12,7 +12,7 @@
 #### Either head over to the <a href="https://github.com/Svxy/mint-emojis/releases/latest">latest release</a> page to download the zip directly,<br>or from your terminal with this command:
 
 ```console
-curl -sL "$(curl -s https://api.github.com/repos/Svxy/mint-emojis/releases/latest | grep 'browser_' | grep 'Mint Emojis.zip' | cut -d\" -f4)" -o "Mint Emojis.zip"
+curl -sL "$(curl -s https://api.github.com/repos/Svxy/mint-emojis/releases/latest | grep 'browser_' | grep 'Mint.Emojis.zip' | cut -d\" -f4)" -o "Mint.Emojis.zip"
 ```
 
 <br>
